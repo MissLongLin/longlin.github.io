@@ -1,2 +1,8 @@
-# longlin.github.io
-#我什么也不知道
+第一个博客
+====
+    Hello 大家好，我是龙林。
+    欢迎到访  
+    很高兴见到您  
+    祝您，早上好，中午好，下午好，晚安  
+    这是我在研究Git和GitHub下自己搭建的第一个博客，过程可谓是艰辛。
+[![baidu]](http://baidu.com) [baidu](http://www.baidu.com/img/bdlogo.gif "百度logo") 
